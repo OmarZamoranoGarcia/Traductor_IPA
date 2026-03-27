@@ -1,6 +1,7 @@
 env/
 .vscode/
 __pycache__/
+
 *.pyc
 # Logs
 logs
