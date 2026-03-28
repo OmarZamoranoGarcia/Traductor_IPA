@@ -3,3 +3,4 @@ uvicorn==0.27.1
 torch==2.2.1
 python-dotenv==1.0.1
 pydantic==2.6.3
+numpy==2.2.6
