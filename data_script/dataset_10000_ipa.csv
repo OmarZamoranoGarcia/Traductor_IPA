@@ -1,785 +1,4 @@
-text,ipa
-abstraction,æbˈstrækʃən
-access,ˈækˌsɛs
-acid,ˈæsəd
-active,ˈæktɪv
-activity,ækˈtɪvɪti
-address,ˈæˌdrɛs
-admin,ˈædmɪn
-after,ˈæftər
-agile,ˈæʤəl
-algorithm,ˈælgərˌɪðəm
-all,ɔl
-alter,ˈɔltər
-android,ˈænˌdrɔɪd
-arpanet,ˈɑrpəˌnɛt
-array,əˈreɪ
-artifact,ˈɑrtəˌfækt
-as,ɛz
-assembly,əˈsɛmbli
-assertion,əˈsərʃən
-attack,əˈtæk
-authentication,ɔˌθɛntəˈkeɪʃən
-authorization,ˌɔθərəˈzeɪʃən
-auto,ˈɔtoʊ
-await,əˈweɪt
-backend,ˈbækˌɛnd
-backlog,ˈbæˌklɔg
-backup,ˈbæˌkəp
-basic,ˈbeɪsɪk
-batch,bæʧ
-begin,bɪˈgɪn
-binary,ˈbaɪnəri
-bios,baɪoʊs
-bridge,brɪʤ
-broadcast,ˈbrɔdˌkæst
-broker,ˈbroʊkər
-browser,ˈbraʊzər
-bus,bəs
-by,baɪ
-cable,ˈkeɪbəl
-cache,kæʃ
-cascade,kæˈskeɪd
-case,keɪs
-cassandra,kəˈsændrə
-certificate,sərˈtɪfɪkət
-channels,ˈʧænəlz
-check,ʧɛk
-cipher,ˈsaɪfər
-classification,ˌklæsəfəˈkeɪʃən
-client,ˈklaɪənt
-clock,klɑk
-closure,ˈkloʊʒər
-cluster,ˈklʌstər
-clustering,ˈklʌstərɪŋ
-coaxial,ˈkoʊˈæksiəl
-cohesion,koʊˈhiʒən
-column,ˈkɑləm
-command,kəˈmænd
-commit,kəˈmɪt
-compiler,kəmˈpaɪlər
-computer,kəmˈpjutər
-configuration,kənˌfɪgjərˈeɪʃən
-console,ˈkɑnsoʊl
-constraint,kənˈstreɪnt
-container,kənˈteɪnər
-continuous,kənˈtɪnjuəs
-control,kənˈtroʊl
-controller,kənˈtroʊlər
-cookie,ˈkʊki
-corruption,kərˈəpʃən
-count,kaʊnt
-coverage,ˈkəvərɪʤ
-create,kriˈeɪt
-cross,krɔs
-cursor,ˈkərsər
-custom,ˈkəstəm
-cypress,ˈsaɪprɪs
-daemon,ˈdimən
-data,ˈdætə
-database,ˈdeɪtəˌbeɪs
-dataset,ˈdeɪtəˌsɛt
-deadlock,ˈdɛˌdlɑk
-decorator,ˈdɛkərˌeɪtər
-decoupling,diˈkəplɪŋ
-deep learning,dip ˈlərnɪŋ
-default,dɪˈfɔlt
-delete,dɪˈlit
-deploy,dɪˈplɔɪ
-deployment,dɪˈplɔɪmənt
-device,dɪˈvaɪs
-directory,dɪˈrɛktəri
-disable,dɪˈseɪbəl
-display,dɪˈspleɪ
-distinct,dɪˈstɪŋkt
-docker,ˈdɒkər
-document,ˈdɑkjəmɛnt
-documentation,ˌdɑkjəmɛnˈteɪʃən
-domain,doʊˈmeɪn
-driver,ˈdraɪvər
-drop,drɔp
-duplex,ˈduˌplɛks
-dynamic,daɪˈnæmɪk
-debug,diˈbʌɡ
-egress,ɪˈgrɛs
-email,iˈmeɪl
-empty,ˈɛmti
-enable,ɪˈneɪbəl
-encryption,ɪnˈkrɪpʃən
-endpoint,ˈɛndˌpɔɪnt
-epoch,ˈɛpək
-erase,ɪˈreɪs
-ethernet,ˈiθərˌnɛt
-exception,ɪkˈsɛpʃən
-exists,ɪgˈzɪsts
-exploit,ˌɛkˈsplɔɪt
-export,ˈɛkspɔrt
-false,fɔls
-fiber,ˈfaɪbər
-filter,ˈfɪltər
-firewall,ˈfaɪərˌwɔl
-fixture,ˈfɪksʧər
-flood,fləd
-flutter,ˈflətər
-foreign,ˈfɔrən
-forwarding,ˈfɔrwərdɪŋ
-fragment,ˈfrægmənt
-frames,freɪmz
-framework,ˈfreɪmwɜrk
-frequency,ˈfrikwənsi
-from,frəm
-function,ˈfʌŋkʃən
-gateway,ˈɡeɪtweɪ
-generator,ˈʤɛnərˌeɪtər
-generic,ʤəˈnɛrɪk
-global,ˈgloʊbəl
-gradient,ˈgreɪdiənt
-graph,græf
-hash,hæʃ
-hash table,hæʃ ˈteɪbəl
-hashing,ˈhæʃɪŋ
-having,ˈhævɪŋ
-heap,hip
-host,hoʊst
-hub,həb
-hybrid,ˈhaɪbrɪd
-identity,aɪˈdɛntəˌti
-image,ˈɪmɪʤ
-in,ɪn
-increment,ˈɪnkrəmənt
-index,ˈɪndɛks
-indexing,ˈɪndɛksɪŋ
-inference,ˈɪnfərəns
-infrastructure,ˌɪnfrəˈstrəkʧər
-inheritance,ˌɪnˈhɛrətəns
-inner,ˈɪnər
-insert,ˌɪnˈsərt
-instance,ˈɪnstəns
-integration,ˌɪnəˈgreɪʃən
-integrity,ˌɪnˈtɛgrəti
-intent,ˌɪnˈtɛnt
-interface,ˈɪntərˌfeɪs
-internet,ˈɪntərˌnɛt
-interpreter,ˌɪnˈtərprətər
-interrupt,ˌɪntərˈəpt
-intrusion,ˌɪnˈtruʒən
-ios,ˈioʊs
-ip,ˌaɪˌpi
-jenkins,ˈʤɛŋkɪnz
-jest,ʤɛst
-join,ʤɔɪn
-kernel,ˈkɜrnəl
-key,ki
-lan,læn
-laptop,ˈlæpˌtɑp
-latency,ˈleɪtənsi
-layer,leɪər
-left,lɛft
-limit,ˈlɪmət
-line,laɪn
-link,lɪŋk
-linked,lɪŋkt
-list,lɪst
-load,loʊd
-load balancer,loʊd ˈbælənsər
-logging,ˈlɔgɪŋ
-loop,luːp
-mac,mæk
-machine code,məˈʃin koʊd
-machine learning,məˈʃin ˈlərnɪŋ
-mail,meɪl
-malware,ˈmælˌwɛr
-management,ˈmænɪʤmənt
-markup,ˈmɑrˌkəp
-mask,mæsk
-max,mæks
-memory,ˈmɛməri
-merge,mərʤ
-milestone,ˈmaɪlˌstoʊn
-min,mɪn
-mock,mɑk
-mode,moʊd
-model,ˈmɑdəl
-monitoring,ˈmɑnətərɪŋ
-monolith,ˈmɑnəˌlɪθ
-multi,ˈməlti
-multiuser,ˈməltiˌjuzər
-name,neɪm
-network,ˈnɛtwɜrk
-neural,ˈnʊrəl
-normalization,ˌnɔrməlɪˈzeɪʃən
-not,nɑt
-on,ɔn
-orchestration,ˌɔrkəˈstreɪʃən
-order,ˈɔrdər
-out,aʊt
-outer,ˈaʊtər
-over,ˈoʊvər
-paging,ˈpeɪʤɪŋ
-parser,ˈpɑrsər
-password,ˈpæsˌwərd
-patch,pæʧ
-payload,ˈpeɪˌloʊd
-penetration,ˌpɛnəˈtreɪʃən
-peripheral,pərˈɪfərəl
-phishing,ˈfɪʃɪŋ
-phone,foʊn
-ping,pɪŋ
-pipeline,ˈpaɪˌplaɪn
-point,pɔɪnt
-pointer,ˈpɔɪntər
-policy,ˈpɑləsi
-polymorphism,ˌpɑˌliˈmɔrfɪzm
-port,pɔrt
-power,paʊər
-primary,ˈpraɪˌmɛri
-printer,ˈprɪntər
-private,ˈpraɪvət
-procedure,prəˈsiʤər
-process,ˈprɑˌsɛs
-processor,ˈprɑˌsɛsər
-promise,ˈprɑməs
-prompt,prɑmpt
-protocol,ˈproʊtəˌkɔl
-provisioning,prəˈvɪʒənɪŋ
-proxy,ˈprɑksi
-public,ˈpəblɪk
-pull,pʊl
-push,pʊʃ
-query,ˈkwɪri
-queue,kjuː
-ram,ræm
-range,reɪnʤ
-register,ˈrɛʤɪstər
-registry,ˈrɛʤɪstri
-regression,rəˈgrɛʃən
-remote,rɪˈmoʊt
-replication,ˌrɛplɪˈkeɪʃən
-repository,riˈpɑzəˌtɔri
-request,rɪˈkwɛst
-requirement,rɪkˈwaɪrmənt
-resource,ˈrisɔrs
-response,rɪˈspɑns
-responsive,rɪˈspɑnsɪv
-rest,rɛst
-retransmission,ˌritrænzˈmɪʃən
-right,raɪt
-rip,rɪp
-role,roʊl
-rollback,ˈroʊlˌbæk
-root,rut
-router,ˈruːtər
-routing,ˈrutɪŋ
-runtime,ˈrʌnˌtaɪm
-save,seɪv
-scaling,ˈskeɪlɪŋ
-scheduler,ˈskɛʤʊlər
-schema,ˈskimə
-script,skrɪpt
-secure,sɪˈkjʊr
-select,səˈlɛkt
-selenium,səˈliniəm
-serial,ˈsɪˌriəl
-server,ˈsɜrvər
-service,ˈsɜrvɪs
-session,ˈsɛʃən
-shell,ʃɛl
-simple,ˈsɪmpəl
-simulator,ˈsɪmjəˌleɪtər
-single,ˈsɪŋgəl
-singleton,ˈsɪŋgəltən
-sms,ˌɛˌsɛˈmɛs
-soap,soʊp
-socket,ˈsɑkɪt
-sockets,ˈsɑkəts
-sort,sɔrt
-specification,ˌspɛsɪfɪˈkeɪʃən
-speed,spid
-splitter,ˈsplɪtər
-sponsor,ˈspɑnsər
-sprint,sprɪnt
-spy,spaɪ
-stack,stæk
-start,stɑrt
-static,ˈstætɪk
-status,ˈstætəs
-storage,ˈstɔrɪʤ
-stored,stɔrd
-stub,stəb
-sum,səm
-support,səˈpɔrt
-swift,swɪft
-switch,swɪʧ
-syntax,ˈsɪnˌtæks
-table,ˈteɪbəl
-testing,ˈtɛstɪŋ
-thread,θrɛd
-timeout,ˈtaɪˌmaʊt
-to,tɪ
-token,ˈtoʊkən
-training,ˈtreɪnɪŋ
-transaction,trænˈzækʃən
-transfer,ˈtrænsfər
-transformer,trænsˈfɔrmər
-transmission,trænzˈmɪʃən
-tree,tri
-trigger,ˈtrɪgər
-union,ˈjunjən
-unique,juˈnik
-unit,ˈjunɪt
-update,ˈəpˌdeɪt
-user,ˈjuzər
-variable,ˈvɛriəbəl
-version control,ˈvərʒən kənˈtroʊl
-view,vju
-virtual,ˈvərʧuəl
-vulnerability,ˌvəlnərəˈbɪlɪti
-web,wɛb
-where,wɛr
-wired,waɪərd
-wireless,ˈwaɪrlɪs
-xml,ˌɛkˌsɛˈmɛl
-git,ɡɪt
-sql,ˌɛsˌkjuːˈɛl
-github,ˈɡɪtˌhʌb
-acl,ˌə s.iː .ɛˈl
-adc,ˌə d.iː sˈiː
-ansible,ˈænsəbəl
-anti-virus,ˌæntiːvˈaɪrəs
-antivirus,ˌæntɪvˈɪrəs
-api,ˌeɪ.piːˈaɪ
-apk,ˌə p.iː kˈeɪ
-async,ˈeɪsɪŋ
-autocorrect,ˈɔtoʊkrətɪk
-avg,ˌə v.iː dʒˈiː
-aws,ˌə d.əbəlju .ɛˈs
-backpropagation,bˌækprəɡpˈeɪʃən
-bcp,ˌb.iː s.iː pˈiː
-bff,ˌb.iː .ɛf .ɛˈf
-bfs,ˌb.iː .ɛf .ɛˈs
-bgp,ˌb.iː dʒ.iː pˈiː
-bitrate,baɪtrˈeɪt
-bluetooh,blˈutˌu
-bootloader,bˈutlˌoʊdər
-bytecode,bˈaɪtˌɛktoʊd
-callback,kˈɔlbˌæk
-cdn,ˌs.iː d.iː .ɛˈn
-checksum,tʃˈɛksəm
-cherry-pick,tʃˈɛriːpˌɪk
-chipset,tʃˈɪpst
-ci/cd,sˈɪkt
-ciphertext,sˈɪpərtˌɛkst
-cli,ˌs.iː .ɛl ˈaɪ
-config,kˈɑnfɪɡ
-cpu,ˌs.iː p.iː jˈu
-cqrs,kˈərs
-crashlytics,krælskˈaɪtɪks
-crc,ˌs.iː .ɑr sˈiː
-crl,ˌs.iː .ɑr .ɛˈl
-cross-subsidization,krˌɑsəbsəɡˈeɪʃənd
-cryptanalysis,krˌɪptənˈæləsəs
-crytographic,krˌaɪtəɡrˈæfɪk
-csrf,kˈərsf
-css,ˌs.iː .ɛs .ɛˈs
-csv,ˌs.iː .ɛs vˈiː
-cybersecurity,sˌaɪbərkəsˈərtiːə
-datagram,dˈeɪtəɡrˌæm
-dce,ˌd.iː s.iː ˈiː
-ddos,dˈɑs
-debugger,dˈɛbjuɡər
-decryption,dɪkrˈɪpʃən
-dfs,ˌd.iː .ɛf .ɛˈs
-dhcp,dˈəkp
-django,dʒˈɑŋɡoʊ
-dll,ˌd.iː .ɛl .ɛˈl
-dn,ˌd.iː .ɛˈn
-dns,ˌd.iː .ɛn .ɛˈs
-dockerfile,dˈɑkərfˌɪl
-drp,ˌd.iː .ɑr pˈiː
-dte,ˌd.iː t.iː ˈiː
-embedding,ɛmbˈɛdɪŋ
-emulator,ˈɛmjəlˌeɪtər
-encapsulation,ɛnkˌæpsəlˈeɪʃən
-etl,ˌiː t.iː .ɛˈl
-event-driven,ˈɛvəndrˌɪtən
-executable,ˌɛksəkjˈutəbəl
-fcm,ˌɛf s.iː .ɛˈm
-filesystem,fˈaɪlsˌɪstəm
-firestore,fˈaɪrstˌɔr
-firmware,fˈərmwˌɛr
-flip-flop,flˈɪfplɔf
-fpga,pˈiːɡˈeɪ
-frontend,frˈɑntənd
-ftp,ˌɛf t.iː pˈiː
-gigabitethernet,ɡˈɪɡənətˌɔrtɪn
-git init,dʒˈɪt ˈɪnɪt
-gpio,ɡˈoʊiːoʊ
-gpu,ˌdʒ.iː p.iː jˈu
-gradle,ɡrˈeɪdəl
-graphql,ɡrˈæfkəl
-gui,ˌdʒ.iː j.u ˈaɪ
-healthcheck,hˈɛlθkˌɛk
-heatsink,hˈiːtsɪŋk
-homepage,hˈoʊmpˌeɪdʒ
-hostname,hˈɑstnəm
-html,tˈəməl
-http,ˌeɪtʃ t.iː t.iː pˈiː
-http/s,tˈæpts
-https,tˈæpts
-i2c,ˌaɪ t.u sˈiː
-iam,ˌaɪ ə .ɛˈm
-icmp,ˈɪkmp
-ifnull,ˈɪŋfəl
-inbox,ˈɪnbˌɑks
-inout,ˈaɪnaʊt
-insertone,ˈɪnsərtˌoʊn
-interoperability,ˌɪntərəpərbˈɪlətiː
-iot,ˌaɪ .oʊ tˈiː
-ipa,ˌaɪ p.iː ˈə
-ipsec,ˈɪpsˌɛk
-iso,ˌaɪ .ɛs ˈoʊ
-iterable,ˈaɪtərəbəl
-itil,ˈaɪtəl
-json,sˈɑn
-jwt,ˌdʒ.eɪ d.əbəlju tˈiː
-kanban,kˈænbən
-key-value,kˈiːvəlˌu
-kml,ˌk.eɪ .ɛm .ɛˈl
-kotlin,kˈɑtlɪn
-kubernetes,kəbˈərnəts
-lexer,lˈɛksər
-llm,ˌɛl .ɛl .ɛˈm
-login,lˈoʊɡɪn
-logout,lˈoʊɡˌaʊt
-lorawan,lˈɔrəwˌɑn
-maintainability,mˌeɪntənˈɪtbɪdiː
-mbps,bˈæps
-meraki,mˈɛrəkiː
-microcontroller,mˌaɪkroʊkˈɑntrəklər
-microservices,mˌaɪkroʊsˈɛrɪsɪs
-middleware,mˈɪdəlwˌɛr
-miliseconds,mˈɪlɪsˌɛksəndz
-mongodb,mˈɑŋɡəd
-motherboard,mˈəθərbˌɔrd
-mqtt,mkˈæts
-multiplexing,mˈəltəplˌɛksɪŋ
-mutex,mjˈutˌɛks
-mvc,ˌɛm v.iː sˈiː
-mvvm,vˈæmvəm
-mysql,mˈɪskəl
-nlp,ˌɛn .ɛl pˈiː
-node.js,nˈoʊdiːz
-nosql,nˈɑsklə
-octal,ˈɑktəl
-orm,ˌoʊ .ɑr .ɛˈm
-ospf,ˈɑspf
-outbox,ˈaʊtbˌɑks
-overfitting,ˈoʊvərfˌɪtɪŋ
-pentesting,pˈɛntɪstɪŋ
-perceptron,pˈərstɑprənt
-pgvector,fˈɛvtkˌɔr
-phablet,fˈæblət
-poofing,pˈufɪŋ
-postgresql,pəstɡrˈɛstəɡ
-postgrest,pˈɑstɡrɛst
-pr,ˌp.iː .ɑˈr
-pub/sub,pˈəbsəb
-pwm,ˌp.iː d.əbəlju .ɛˈm
-ransomware,rˈænsəwˌɑm
-rebase,rɪbˈeɪs
-recursion,rɪkˈərʒən
-redis,rˈiːdɪs
-refactoring,riːfˈæktərɪŋ
-rls,ˌɑr .ɛl .ɛˈs
-rtos,rˈoʊts
-scalability,skəlˈæsəbəliː
-screenshot,skrˈiːnʃət
-scrum,skrˈəm
-semaphore,sˈɛməfər
-serverless,sˈərvərləs
-sharding,ʃˈɑrdɪŋ
-sla,ˌɛs .ɛl ˈə
-slo,ˌɛs .ɛl ˈoʊ
-smartphone,smˈɑrtfˌoʊn
-smartwatch,smˈɑrtwˌɑtʃ
-smtp,stˈəpt
-snmp,snˈæmp
-spellcheck,spˈɛltʃɛk
-spi,ˌɛs p.iː ˈaɪ
-spml,spˈɛlm
-ssd,ˌɛs .ɛs dˈiː
-ssh,ˌɛs .ɛs .eɪˈtʃ
-ssl,ˌɛs .ɛs .ɛˈl
-ssr,ˌɛs .ɛs .ɑˈr
-stp,ˌɛs t.iː pˈiː
-subnet,sˈəbnɪt
-subnetting,sˈəbnɪtfˌɪdʒ
-tco,ˌt.iː s.iː ˈoʊ
-tdd,ˌt.iː d.iː dˈiː
-telnet,tˈɛlnət
-tensor,tˈɛnsər
-terraform,tˈɛrəfˌɔrm
-tokenizer,tˈoʊkənˌaɪzər
-touchscreen,tukskrˈeɪn
-traversal,trəvˈərsəl
-typescript,tˈaɪspˌɪktrˌəp
-udp,ˌj.u d.iː pˈiː
-uefi,jˈufiː
-underfitting,ˈəndərfˌɪtɪŋ
-url,ˌj.u .ɑr .ɛˈl
-usb,ˌj.u .ɛs bˈiː
-username,jˈusərnˌeɪm
-vhdl,ˌv.iː .eɪtʃ d.iː .ɛˈl
-virtualization,vˌərtəʃəwˈɪlənəs
-vlan,ˌv.iː .ɛl ə .ɛˈn
-voip,vˈɔɪp
-vpn,ˌv.iː p.iː .ɛˈn
-vue.js,vjˈuz
-webcam,wˈɛbkˌæm
-xss,ˌɛks .ɛs .ɛˈs
-yaml,jˈæməl
-access network,ˈækˌsɛs ˈnɛtˌwərk
-aggregate,ˈægrəgət
-alignment,əˈlaɪnmənt
-analog,ˈænəˌlɔg
-angular,ˈæŋgjələr
-app,æp
-app check,æp ʧɛk
-application,ˌæpləˈkeɪʃən
-application / app,ˌæpləˈkeɪʃən  æp
-approval,əˈpruvəl
-argument,ˈɑrgjəmənt
-arp,ɑrp
-artificial intelligence,ˌɑrtəˈfɪʃəl ˌɪnˈtɛləʤəns
-auth,ɔθ
-azure,ˈæʒər
-backbone,ˈbækˌboʊn
-bandwidth,ˈbændwɪdθ
-battery,ˈbætəri
-big data,bɪg ˈdætə
-big o,bɪg oʊ
-binary code,ˈbaɪnəˌri koʊd
-binary tree,ˈbaɪnəˌri tri
-bluetooth,ˈbluˌtuθ
-bold,boʊld
-bookmark,ˈbʊkmɑrk
-boot up,but əp
-bottleneck,ˈbɑtəlˌnɛk
-box,bɑks
-bug,bəg
-bundling,ˈbəndəlɪŋ
-camel case,ˈkæməl keɪs
-camera,ˈkæmərə
-carrier,ˈkɛriər
-change management,ʧeɪnʤ ˈmænɪʤmənt
-char,ʧɑr
-charger,ˈʧɑrʤər
-circuit switching,ˈsərkət sˈwɪʧɪŋ
-class,klæs
-clickbait,ˈklɪkˌbeɪt
-clipboard,ˈklɪpˌbɔrd
-clone,kloʊn
-cloud,klaʊd
-cloud computing,klaʊd kəmˈpjutɪŋ
-cloud functions,klaʊd ˈfəŋkʃənz
-code,koʊd
-code reviews,koʊd rəvˈjuz
-collocation,kɑləˈkeɪʃən
-computer vision,kəmˈpjutər ˈvɪʒən
-conditional statements,kənˈdɪʃənəl ˈsteɪtmənts
-connection pool,kəˈnɛkʃən pul
-constant,ˈkɑnstənt
-cooper,ˈkupər
-cost model,kɔst ˈmɑdəl
-covert,ˈkoʊvərt
-crud,krəd
-current,ˈkɑrənt
-cut and paste,kət ənd peɪst
-data transmission,ˈdætə trænzˈmɪʃən
-database management system,ˈdætəˌbeɪs ˈmænɪʤmənt ˈsɪstəm
-dependency injection,dɪˈpɛndənsi ˌɪnˈʤɛkʃən
-design patterns,dɪˈzaɪn ˈpætərnz
-digital,ˈdɪʤɪtəl
-discoverable,dɪˈskəvərəbəl
-docking station,ˈdɑkɪŋ ˈsteɪʃən
-dom,dɑm
-domain name,doʊˈmeɪn neɪm
-dot com,dɑt kɑm
-download,ˈdaʊnˌloʊd
-draft,dræft
-drag,dræg
-drag and drop,dræg ənd drɔp
-edge functions,ɛʤ ˈfəŋkʃənz
-else statements,ɛls ˈsteɪtmənts
-ethernet cable,ˈiθərˌnɛt ˈkeɪbəl
-event,ɪˈvɛnt
-event sourcing,ɪˈvɛnt ˈsɔrsɪŋ
-express,ɪkˈsprɛs
-expression,ɪkˈsprɛʃən
-external hard drive,ɪkˈstərnəl hɑrd draɪv
-fiber optics,ˈfaɪbər ˈɑptɪks
-file,faɪl
-file transfer,faɪl ˈtrænsfər
-find,faɪnd
-folder,ˈfoʊldər
-font,fɑnt
-footer,ˈfʊtər
-for loop,fər lup
-foreign data wrappers,ˈfɔrən ˈdætə ˈræpərz
-fork,fɔrk
-form,fɔrm
-format,ˈfɔrˌmæt
-full,fʊl
-gps,ˈgipiˈɛs
-group by,grup baɪ
-hacker,ˈhækər
-hand over,hænd ˈoʊvər
-hard disk,hɑrd dɪsk
-hard drive,hɑrd draɪv
-hardware,ˈhɑrdˌwɛr
-header,ˈhɛdər
-headphones,ˈhɛdˌfoʊnz
-hexagonal architecture,hɛkˈsægənəl ˈɑrkəˌtɛkʧər
-home screen,hoʊm skrin
-hosting,ˈhoʊstɪŋ
-hyperlink,ˈhaɪpərlɪŋk
-if statement,ɪf ˈsteɪtmənt
-incident management,ˈɪnsədənt ˈmænɪʤmənt
-integrated development environment (ide),ˈɪnəˌgreɪtɪd dɪˈvɛləpmənt ɪnˈvaɪrənmənt (aɪd)
-interconnection,ˌɪntərkəˈnɛkʃən
-interconnection point,ˌɪntərkəˈnɛkʃən pɔɪnt
-internet protocol,ˈɪntərˌnɛt ˈproʊtəˌkɔl
-internet service provider,ˈɪntərˌnɛt ˈsərvɪs prəˈvaɪdər
-ip address,ˌaɪˌpi ˈæˌdrɛs
-it,ɪt
-iteration,ˌɪtəˈreɪʃən
-java,ˈʤɑvə
-javascript,ˈʤɑvəˌskrɪpt
-keyboard,ˈkiˌbɔrd
-keyword,ˈkiˌwərd
-lag,læg
-leased lines,list laɪnz
-local loop,ˈloʊkəl lup
-locator,ˈloʊˌkeɪtər
-lock screen,lɑk skrin
-logic,ˈlɑʤɪk
-logic gates,ˈlɑʤɪk geɪts
-margin,ˈmɑrʤən
-markup language,ˈmɑrˌkəp ˈlæŋgwɪʤ
-match,mæʧ
-microphone,ˈmaɪkrəˌfoʊn
-mobile data,ˈmoʊbəl ˈdætə
-modem,ˈmoʊdəm
-monitor,ˈmɑnətər
-moscow,ˈmɔˌskaʊ
-mouse,maʊs
-multiplexer,ˈməltiˌplɛksər
-nat,næt
-nested,ˈnɛstɪd
-network node,ˈnɛtˌwərk noʊd
-neural networks,ˈnʊrəl ˈnɛtˌwərks
-notification,ˌnoʊtəfəˈkeɪʃən
-numbered list,ˈnəmbərd lɪst
-open source,ˈoʊpən sɔrs
-operating system,ˈɔpərˌeɪtɪŋ ˈsɪstəm
-operator,ˈɑpərˌeɪtər
-originating access,ərˈɪʤəˌneɪtɪŋ ˈækˌsɛs
-os,ɑs
-packet switching,ˈpækɪt sˈwɪʧɪŋ
-page break,peɪʤ breɪk
-paragraph,ˈpɛrəˌgræf
-parallel port,ˈpɛrəˌlɛl pɔrt
-paste,peɪst
-pat,pæt
-pc,ˈpiˈsi
-performance,pərˈfɔrməns
-power cord,paʊər kɔrd
-preferences,ˈprɛfərənsɪz
-print,prɪnt
-program,ˈproʊˌgræm
-pull request,pʊl rɪkˈwɛst
-python,ˈpaɪθɑn
-query plan,kˈwiri plæn
-react,riækt
-realtime,ˈriəlˌtaɪm
-reboot,riˈbut
-refresh,rɪˈfrɛʃ
-rejects,ˈriʤɛkts
-reply to all,rɪˈplaɪ tɪ ɔl
-resolution,ˌrɛzəˈluʃən
-retail services,ˈriˌteɪl ˈsərvɪsɪz
-roll out,roʊl aʊt
-run,rən
-sass,sæs
-save as,seɪv ɛz
-scanner,ˈskænər
-search engine,sərʧ ˈɪnʤən
-service mesh,ˈsərvɪs mɛʃ
-set,sɛt
-set up,sɛt əp
-settings,ˈsɛtɪŋz
-shortcut,ˈʃɔrtˌkət
-shut down,ʃət daʊn
-signaling,ˈsɪgnəlɪŋ
-sim card,sɪm kɑrd
-snapshot,sˈnæpˌʃɑt
-sniffer,sˈnɪfər
-social media,ˈsoʊʃəl ˈmidiə
-software,ˈsɔfˌwɛr
-software license,ˈsɔfˌwɛr ˈlaɪsəns
-sorting algorithms,ˈsɔrtɪŋ ˈælgərˌɪðəmz
-source code,sɔrs koʊd
-spa,spɑ
-space bar,speɪs bɑr
-spam,spæm
-speaker,ˈspikər
-spectrum,ˈspɛktrəm
-spreadsheet,ˈsprɛdˌʃit
-spring boot,spərɪŋ but
-standards,ˈstændərdz
-stash,stæʃ
-state machine,steɪt məˈʃin
-surge protector,sərʤ prəˈtɛktər
-swapping,sˈwɑpɪŋ
-switching,sˈwɪʧɪŋ
-table of contents,ˈteɪbəl əv ˈkɑntɛnts
-tablet,ˈtæblət
-telecommunications,ˌtɛləkəmˌjunəˈkeɪʃənz
-template,ˈtɛmplət
-terminating access,ˈtərməˌneɪtɪŋ ˈækˌsɛs
-to attach,tɪ əˈtæʧ
-to click,tɪ klɪk
-to compose,tɪ kəmˈpoʊz
-tool bar,tul bɑr
-toolbar,ˈtulˌbɑr
-tools,tulz
-track changes,træk ˈʧeɪnʤɪz
-transit service,ˈtrænzɪt ˈsərvɪs
-triggers,ˈtrɪgərz
-tv,ˌtɛləˈvɪʒən
-type,taɪp
-uart,juɑrt
-unbundling,ənˈbəndlɪŋ
-uniform,ˈjunəˌfɔrm
-unit testing,ˈjunɪt ˈtɛstɪŋ
-universal serial bus,ˌjunəˈvərsəl ˈsɪˌriəl bəs
-universal service,ˌjunəˈvərsəl ˈsərvɪs
-unzip,ənˈzɪp
-upload,ˈəˌploʊd
-upload files,ˈəˌploʊd faɪlz
-user interface,ˈjuzər ˈɪnərˌfeɪs
-user name,ˈjuzər neɪm
-web page,wɛb peɪʤ
-website,ˈwɛbˌsaɪt
-while loop,waɪl lup
-wholesale access,ˈhoʊlˌseɪl ˈækˌsɛs
-wi-fi,ˈwaɪˌfaɪ
-wi-fi hotspot,ˈwaɪˌfaɪ ˈhɑtˌspɑt
-widget,ˈwɪʤɪt
-windows mobile,ˈwɪndoʊz ˈmoʊbəl
-word processor,wərd ˈprɑˌsɛsər
-zero trust,ˈziroʊ trəst
-zip,zɪp
+Termino_Ingles,Transcripcion_IPA
 now,naʊ
 alvin,ˈælvɪn
 frost,frɔst
@@ -841,6 +60,7 @@ unmatched,ənˈmæʧt
 hansard,ˈhænsərd
 investigate,ˌɪnˈvɛstəˌgeɪt
 miscarriage,mɪˈskɛrəʤ
+cooper,ˈkupər
 beaten,ˈbitən
 beneficially,ˌbɛnəˈfɪʃəli
 forum,ˈfɔrəm
@@ -870,6 +90,7 @@ jewry,ˈʤuri
 hardhead,ˈhɑrˌdhɛd
 orchestrate,ˈɔrkɪˌstreɪt
 staff,stæf
+full,fʊl
 delay,dɪˈleɪ
 rimmer,ˈrɪmər
 hercules,ˈhərkjəˌliz
@@ -941,6 +162,7 @@ centenarian,ˌsɛntəˈnɛriən
 dimorphic,daɪˈmɔrfɪk
 grubs,grəbz
 dogfight,ˈdɑgˌfaɪt
+resolution,ˌrɛzəˈluʃən
 posted,ˈpoʊstɪd
 twinkles,tˈwɪŋkəlz
 stifle,ˈstaɪfəl
@@ -1049,6 +271,7 @@ pushover,ˈpʊˌʃoʊvər
 disinfection,dɪsɪnˈfɛkʃən
 sib,sɪb
 totalitarianism,ˌtoʊˌtæləˈtɛriəˌnɪzəm
+register,ˈrɛʤɪstər
 gumshoe,ˈgəmˌʃu
 superman,ˈsupərˌmæn
 comparable,ˈkɑmprəbəl
@@ -1068,6 +291,7 @@ obstruction,əbˈstrəkʃən
 stanza,ˈstænzə
 headband,ˈhɛdˌbænd
 enjoying,ˌɛnˈʤɔɪɪŋ
+schema,ˈskimə
 bases,ˈbeɪsɪz
 understandable,ˌəndərˈstændəbəl
 livery,ˈlɪvəri
@@ -1109,6 +333,7 @@ pottery,ˈpɑtəri
 madden,ˈmædən
 dreamt,drɛmt
 machin,ˈmæʧɪn
+digital,ˈdɪʤɪtəl
 green,grin
 ryder,ˈraɪdər
 agawam,ˈægəˌwɑm
@@ -1388,6 +613,7 @@ manx,mæŋks
 prohibitory,proʊˈhɪbəˌtɔri
 blowing,bloʊɪŋ
 mortimer,ˈmɔrtɪmər
+set,sɛt
 indecision,ˌɪndɪˈsɪʒən
 maternity,məˈtərnɪti
 secretion,səˈkriʃən
@@ -1497,6 +723,7 @@ afrikaner,ˌæfrəˈkɑnər
 morocco,mərˈɑkoʊ
 hinch,hɪnʧ
 sumatran,ˌsuˈmɑtrən
+min,mɪn
 knuckled,ˈnəkəld
 tardiness,ˈtɑrdinəs
 myrtle,ˈmərtəl
@@ -1506,6 +733,7 @@ sidewise,ˈsaɪdˌwaɪz
 francois,frɑnsˈwɑ
 prosthesis,ˌprɔsˈθɛsɪs
 profane,proʊˈfeɪn
+script,skrɪpt
 fraud,frɔd
 residence,ˈrɛzɪdəns
 victorine,viktɔˈrini
@@ -1551,6 +779,7 @@ madly,ˈmædli
 egomaniac,ˌigoʊˈmeɪniæk
 gael,geɪl
 diploma,dɪˈploʊmɑ
+pat,pæt
 devonshire,dɪˈvɑnˌʃaɪr
 groined,grɔɪnd
 discoloration,dɪˌskələrˈeɪʃən
@@ -1704,6 +933,7 @@ admiringly,ædˈmaɪrɪŋli
 wolfer,ˈwʊlfər
 goshen,ˈgoʊʃɪn
 philanthropist,fɪˈlænθrəpɪst
+distinct,dɪˈstɪŋkt
 armiger,ˈɑrmɪgər
 birthmark,ˈbərθˌmɑrk
 jewishness,ˈʤuɪʃnəs
@@ -1832,6 +1062,7 @@ egoism,ˈigoʊˌɪzəm
 prophylactic,ˌprɑfɪˈlæktɪk
 moreen,mɔˈrin
 sloping,sˈloʊpɪŋ
+constant,ˈkɑnstənt
 weatherproof,ˈwɛðərˌpruf
 solomon,ˈsɑləmən
 straka,ˈstrɑkə
@@ -1854,6 +1085,7 @@ gola,ˈgoʊlə
 alkaloid,ˈælkəˌlɔɪd
 tristram,ˈtrɪstrəm
 hazelwood,ˈheɪzəlˌwʊd
+command,kəˈmænd
 panty,ˈpænti
 corrective,kərˈɛktɪv
 toiled,tɔɪld
@@ -1879,6 +1111,7 @@ mizar,ˈmaɪˌzɑr
 retrace,riˈtreɪs
 headache,ˈhɛˌdeɪk
 spire,spaɪr
+lan,læn
 eke,ik
 communicate,kəmˈjunəˌkeɪt
 relinquish,rɪˈlɪŋkwɪʃ
@@ -2045,7 +1278,9 @@ catapult,ˈkætəˌpəlt
 dictate,ˈdɪkˌteɪt
 grecian,ˈgriʃən
 shutter,ˈʃətər
+range,reɪnʤ
 endocrinologist,ˌɛndoʊkrəˈnɑləʤəst
+singleton,ˈsɪŋgəltən
 transcription,ˌtrænˈskrɪpʃən
 appropriator,əˈproʊpriˌeɪtər
 allotment,əˈlɑtmənt
@@ -2123,6 +1358,7 @@ convergent,kənˈvərʤənt
 bacteria,bækˈtɪriə
 bertie,ˈbərti
 america,əˈmɛrɪkə
+logic,ˈlɑʤɪk
 cornfield,ˈkɔrnˌfild
 spew,spju
 elusiveness,ɪˈlusɪvnəs
@@ -2209,6 +1445,7 @@ gal,gæl
 welterweight,ˈwɛltərˌweɪt
 mali,ˈmɑli
 cuteness,ˈkjutnəs
+hub,həb
 foramen,fərˈeɪmən
 rug,rəg
 weeping,ˈwipɪŋ
@@ -2256,6 +1493,7 @@ frasier,ˈfreɪʒər
 exacting,ɪgˈzæktɪŋ
 overlook,ˈoʊvərˌlʊk
 reuse,riˈjuz
+fragment,ˈfrægmənt
 tragic,ˈtræʤɪk
 friendship,ˈfrɛndʃɪp
 overpay,ˈoʊvərˌpeɪ
@@ -2276,6 +1514,7 @@ comely,ˈkəmli
 chard,ʧɑrd
 governmentally,ˈgəvərˌmɛntəli
 infield,ˈɪnˌfild
+mask,mæsk
 protectorate,prəˈtɛktərət
 miles,maɪəlz
 expire,ɪkˈspaɪr
@@ -2288,6 +1527,7 @@ valiantly,ˈvæljəntli
 chloroplast,ˈklɔrəˌplæst
 actor,ˈæktər
 decision,dɪˈsɪʒən
+empty,ˈɛmti
 conner,ˈkɑnər
 identical,aɪˈdɛntɪkəl
 understand,ˌəndərˈstænd
@@ -2360,6 +1600,7 @@ brilliantly,ˈbrɪljəntli
 trimming,ˈtrɪmɪŋ
 obstructive,əbˈstrəktɪv
 alfalfa,ˌælˈfælfə
+sort,sɔrt
 appreciation,əˌpriʃiˈeɪʃən
 allergy,ˈælərʤi
 hysteric,ˌhɪˈstɛrɪk
@@ -2384,6 +1625,7 @@ originality,ərˌɪʤəˈnælɪti
 metastasis,məˈtæstəsɪs
 anaplasia,ˌænəˈpleɪʒjə
 untrained,ənˈtreɪnd
+queue,kju
 rio,ˈrioʊ
 bemuse,bɪmˈjuz
 mammary,ˈmæməri
@@ -2518,12 +1760,14 @@ cully,ˈkəli
 loot,lut
 hustler,ˈhəsələr
 urchin,ˈərʧən
+testing,ˈtɛstɪŋ
 thoracic,θɔˈræsɪk
 lived,lɪvd
 cushioned,ˈkʊʃənd
 torah,ˈtɔrə
 paul,pɔl
 marcos,ˈmɑrkoʊs
+argument,ˈɑrgjəmənt
 spangler,ˈspæŋgələr
 octillion,ɑkˈtɪljən
 hooter,ˈhutər
@@ -2705,7 +1949,9 @@ bourgeoisie,ˌbʊrʒˌwɑˈzi
 snowball,sˈnoʊˌbɔl
 antarctic,æˈnɑrtɪk
 buttoned,ˈbətənd
+duplex,ˈduˌplɛks
 goddard,ˈgɑdərd
+token,ˈtoʊkən
 corporation,ˌkɔrpərˈeɪʃən
 cramp,kræmp
 mandolin,ˈmændəˌlɪn
@@ -3016,6 +2262,7 @@ commonsensical,ˌkɑmənˈsɛnsɪkəl
 bookcase,ˈbʊkˌkeɪs
 baris,ˈbɑriz
 corregidor,kərˈɛgədɔr
+user,ˈjuzər
 reliability,riˌlaɪəˈbɪləti
 arab,ˈærəb
 westernization,ˌwɛstərnɪˈzeɪʃən
@@ -3272,6 +2519,7 @@ tangerine,ˌtænʤərˈin
 depreciation,dɪˌpriʃiˈeɪʃən
 implicit,ˌɪmˈplɪsət
 blackwood,ˈblækˌwʊd
+uniform,ˈjunəˌfɔrm
 suggestion,səˈʤɛsʧən
 arrival,ərˈaɪvəl
 alphabetically,ˌælfəˈbɛtɪkli
@@ -3391,6 +2639,7 @@ riding,ˈraɪdɪŋ
 physics,ˈfɪzɪks
 pantaloons,ˈpæntəˌlunz
 team,tim
+remote,rɪˈmoʊt
 deliver,dɪˈlɪvər
 organic,ɔrˈgænɪk
 concessional,kənˈsɛʃənəl
@@ -3418,6 +2667,7 @@ mouthing,ˈmaʊðɪŋ
 eatery,ˈitəri
 creagh,krig
 thoughtfully,ˈθɔtfəli
+primary,ˈpraɪˌmɛri
 goosefish,ˈgusˌfɪʃ
 intercepting,ˌɪnərˈsɛptɪŋ
 manga,ˈmæŋgə
@@ -3441,6 +2691,7 @@ botanic,bəˈtænɪk
 ecology,ɪˈkɑləʤi
 airy,ˈɛri
 suffer,ˈsəfər
+jest,ʤɛst
 paled,peɪld
 regimen,ˈrɛʤəmən
 acidify,əˈsɪdəˌfaɪ
@@ -3700,6 +2951,7 @@ tasty,ˈteɪsti
 concretely,ˈkɑnˌkritli
 kabuki,kəˈbuˌki
 declassify,dɪˈklæsəˌfaɪ
+instance,ˈɪnstəns
 streamline,ˈstrimˌlaɪn
 brattle,ˈbrætəl
 artie,ˈɑrti
@@ -3872,6 +3124,7 @@ blessed,blɛst
 advisedly,ədˈvaɪzədli
 khaki,ˈkɑki
 depreciable,dɪˈprɪʃəbəl
+nat,næt
 chipmunk,ˈʧɪpməŋk
 crewel,kruəl
 discontinue,dɪskənˈtɪnju
@@ -3940,6 +3193,7 @@ probate,ˈproʊˌbeɪt
 dreariness,ˈdririnəs
 izzard,ˈɪzərd
 systemically,səˈstɛmɪkli
+zip,zɪp
 andria,ˈændriə
 disinflation,ˌdɪsɪnˈfleɪʃən
 derivative,dərˈɪvɪtɪv
@@ -3995,6 +3249,7 @@ interrelationship,ˈɪntərriˈleɪʃənʃɪp
 paranoiac,ˌpɛrəˈnɔɪˌæk
 dawn,dɔn
 denaro,dɪˈnɑroʊ
+driver,ˈdraɪvər
 humour,ˈhjumər
 undiplomatic,ənˌdɪpləˈmætɪk
 hackmatack,ˈhækməˌtæk
@@ -4114,8 +3369,10 @@ epigrammatic,ˌɛpɪgrəˈmætɪk
 decorative,ˈdɛkrətɪv
 waved,weɪvd
 lander,ˈlændər
+polymorphism,ˌpɑˌliˈmɔrfɪzm
 reboard,riˈbɔrd
 sifting,ˈsɪftɪŋ
+create,kriˈeɪt
 wo,woʊ
 nonliturgical,nɑnləˈtərʤɪkəl
 linoleum,ləˈnoʊliəm
@@ -4278,6 +3535,7 @@ brave,breɪv
 fowler,ˈfaʊlər
 abscess,ˈæbˌsɛs
 excavation,ˌɛkskəˈveɪʃən
+power,paʊər
 ratchet,ˈræʧət
 stiff,stɪf
 munt,mənt
@@ -4292,6 +3550,7 @@ cavendish,ˈkævəndɪʃ
 munition,mjuˈnɪʃən
 rap,ræp
 frequently,ˈfrikwɛntli
+cursor,ˈkərsər
 terminate,ˈtərməˌneɪt
 clique,klik
 settlement,ˈsɛtəlmənt
@@ -4530,6 +3789,7 @@ lumper,ˈləmpər
 candied,ˈkændid
 attached,əˈtæʧt
 ghastliness,ˈgæstlinəs
+root,rut
 beget,bɪˈgɛt
 cough,kɔf
 jurist,ˈʤʊrɪst
@@ -4729,6 +3989,7 @@ jank,ʤæŋk
 shaft,ʃæft
 snook,snʊk
 thrilling,θˈrɪlɪŋ
+right,raɪt
 nocturnal,nɑkˈtərnəl
 unexpired,ˌənɪkˈspaɪərd
 eddy,ˈɛdi
@@ -4826,6 +4087,7 @@ diseased,dɪˈzizd
 negro,ˈnigroʊ
 unrolling,ˌənˈroʊlɪŋ
 pierre,piɛr
+thread,θrɛd
 flushing,ˈfləʃɪŋ
 flowery,ˈflaʊəri
 procrastination,prəˌkræstəˈneɪʃən
@@ -4933,6 +4195,7 @@ asymmetrical,ˌeɪsəˈmɛtrɪkəl
 toe,toʊ
 della,ˈdɛlə
 mishmash,ˈmɪʃˌmæʃ
+constraint,kənˈstreɪnt
 acts,ækts
 flier,flaɪər
 grammar,ˈgræmər
@@ -4978,6 +4241,7 @@ timeliness,ˈtaɪmlinəs
 grateful,ˈgreɪtfəl
 quinton,kwɪnˈtɔn
 stillborn,ˈstɪlˈbɔrn
+merge,mərʤ
 luminal,ˈlumənəl
 flooded,ˈflədɪd
 spectra,ˈspɛktrə
@@ -5012,6 +4276,7 @@ mandrake,ˈmænˌdreɪk
 marion,ˈmɛriən
 practically,ˈpræktɪkəli
 probably,ˈprɑbəˌbli
+list,lɪst
 retirement,rɪˈtaɪərmənt
 war,wɔr
 lingua,ˈlɪŋgwə
@@ -5113,6 +4378,7 @@ eyesore,ˈaɪˌsɔr
 penthouse,ˈpɛnˌthaʊs
 groping,ˈgroʊpɪŋ
 tempest,ˈtɛmpəst
+stub,stəb
 disaffected,ˌdɪsəˈfɛktɪd
 tire,taɪər
 blanking,ˈblæŋkɪŋ
@@ -5221,6 +4487,7 @@ rooster,ˈrustər
 antagonist,ænˈtægənəst
 turbulence,ˈtərbjələns
 paragon,ˈpɛrəˌgɑn
+agile,ˈæʤəl
 slant,slænt
 setback,ˈsɛtˌbæk
 assertively,əˈsərtɪvli
@@ -5328,6 +4595,7 @@ isis,ˈaɪsəs
 purebred,ˈpjʊrˈbrɛd
 bassa,ˈbæsə
 gave,geɪv
+computer,kəmˈpjutər
 expiry,ˌɛkˈspaɪri
 liquidate,ˈlɪkwɪˌdeɪt
 intentioned,ˌɪnˈtɛnʧənd
@@ -5555,6 +4823,7 @@ fly,flaɪ
 bice,baɪs
 readjustment,riəˈʤəstmənt
 veer,vɪr
+kernel,ˈkərnəl
 quarters,kˈwɔrtərz
 ardent,ˈɑrdənt
 tumescent,tuˈmɛsɪnt
@@ -5601,6 +4870,7 @@ deny,dɪˈnaɪ
 ball,bɔl
 coloration,ˌkələrˈeɪʃən
 leniently,ˈlinjəntli
+performance,pərˈfɔrməns
 journalistic,ˌʤərnəˈlɪstɪk
 commercial,kəˈmərʃəl
 outpour,ˌaʊtˈpɔr
@@ -5674,6 +4944,7 @@ cancer,ˈkænsər
 ignorance,ˈɪgnərəns
 leakage,ˈlikɪʤ
 buri,ˈbʊri
+attack,əˈtæk
 interrelate,ˌɪntərrɪˈleɪt
 burrower,bəroʊər
 lampman,ˈlæmpmən
@@ -5703,6 +4974,7 @@ insufferable,ˌɪnˈsəfərəbəl
 concussion,kənˈkəʃən
 florentine,ˈflɔrənˌtin
 gardening,ˈgɑrdənɪŋ
+integration,ˌɪnəˈgreɪʃən
 arbitrary,ˈɑrbɪˌtrɛri
 flirtation,flərˈteɪʃən
 stomata,ˈstoʊmətə
@@ -5806,6 +5078,7 @@ ripping,ˈrɪpɪŋ
 acolyte,ˈækəˌlaɪt
 roil,rɔɪl
 clumsy,ˈkləmzi
+union,ˈjunjən
 victoria,vɪkˈtɔriə
 whiles,waɪlz
 endoscope,ˈɛndoʊˌskoʊp
@@ -5891,6 +5164,7 @@ nunnery,ˈnənəri
 cerebrally,sərˈibrəli
 catching,ˈkæʧɪŋ
 redemptive,rɪˈdɛmtɪv
+mock,mɑk
 stamping,ˈstæmpɪŋ
 passably,ˈpæsəbli
 breakdown,ˈbreɪkˌdaʊn
@@ -5898,6 +5172,7 @@ parochialism,pərˈoʊkiəˌlɪzəm
 vanishing,ˈvænɪʃɪŋ
 brutalization,ˈbrutələˌzeɪʃən
 ruffin,ˈrəfɪn
+swapping,sˈwɑpɪŋ
 otology,oʊˈtɑləʤi
 subject,ˈsəbʤɪkt
 harmonium,hɑrˈmoʊniəm
@@ -6007,6 +5282,7 @@ parallax,ˈpɛrəˌlæks
 forcing,ˈfɔrsɪŋ
 digs,dɪgz
 allay,əˈleɪ
+orchestration,ˌɔrkəˈstreɪʃən
 telescope,ˈtɛləˌskoʊp
 affect,əˈfɛkt
 disruptive,dɪsˈrəptɪv
@@ -6070,6 +5346,7 @@ amphibian,æmˈfɪbiən
 scorcher,ˈskɔrʧər
 zaibatsu,ˌzeɪˈbætˌsu
 stethoscope,ˈstɛθəˌskoʊp
+key,ki
 inhabit,ˌɪnˈhæbət
 regency,ˈriʤənsi
 bravely,ˈbreɪvli
@@ -6138,6 +5415,7 @@ misconception,mɪskənˈsɛpʃən
 warner,ˈwɔrnər
 opalina,oʊpɑˈlinə
 jelly,ˈʤɛli
+deployment,dɪˈplɔɪmənt
 olympus,oʊˈlɪmpəs
 squashy,skˈwɑʃi
 stratospheric,ˌstrætəsˈfɪrɪk
@@ -6301,6 +5579,7 @@ unconverted,ˌənkənˈvərtɪd
 deductively,dɪˈdəktəvli
 brunet,bruˈnɛt
 biedermeier,ˈbidərˌmaɪər
+retransmission,ˌritrænzˈmɪʃən
 traversing,trəˈvərsɪŋ
 determinative,dɪˈtərmɪnəˌtɪv
 corrupt,kərəpt
@@ -6376,6 +5655,7 @@ gnash,næʃ
 nutritious,nuˈtrɪʃəs
 moyle,mɔɪl
 flattering,ˈflætərɪŋ
+hybrid,ˈhaɪbrɪd
 bakery,ˈbeɪkəri
 equate,ɪkˈweɪt
 admitted,ədˈmɪtəd
@@ -6510,7 +5790,7 @@ overfed,ˌoʊvərˈfɛd
 threadfin,θˈrɛdfɪn
 bevel,ˈbɛvəl
 afghan,ˈæfˌgæn
-,næn
+nan,næn
 knight,naɪt
 erroneously,ɛˈroʊniəsli
 congresswoman,ˈkɑŋgrəsˌwʊmən
@@ -6536,6 +5816,7 @@ losh,lɑʃ
 quick,kwɪk
 bugaboo,ˈbəgəˌbu
 tenable,ˈtɛnəbəl
+run,rən
 rushing,ˈrəʃɪŋ
 superimpose,ˌsupərəmˈpoʊz
 cyrilla,sɪˈrɪlə
@@ -6785,6 +6066,7 @@ coniferous,kəˈnɪfərəs
 houghton,ˈhɔtən
 interpret,ˌɪnˈtərprət
 infective,ˌɪnˈfɛktɪv
+process,ˈprɔˌsɛs
 mandatory,ˈmændəˌtɔri
 watering,ˈwɔtərɪŋ
 inverted,ˌɪnˈvərtɪd
@@ -6986,6 +6268,7 @@ wampum,ˈwɑmpəm
 debi,ˈdɛbi
 purely,ˈpjʊrli
 darner,ˈdɑrnər
+syntax,ˈsɪnˌtæks
 clamber,ˈklæmbər
 cantaloupe,ˈkæntəˌloʊp
 cay,keɪ
@@ -7133,6 +6416,7 @@ uninjured,əˈnɪnʤərd
 vacant,ˈveɪkənt
 somnolence,ˈsɑmnələns
 deplete,dɪˈplit
+form,fɔrm
 selflessness,ˈsɛlfləsnɪs
 pelican,ˈpɛləkən
 zach,zæk
@@ -7191,6 +6475,7 @@ maelstrom,ˈmeɪlstrəm
 tomahawk,ˈtɑməˌhɔk
 remorseless,rɪˈmɔrsləs
 bradley,ˈbrædli
+hacker,ˈhækər
 applicant,ˈæplɪkənt
 sextet,ˌsɛkˈstɛt
 synchronized,ˈsɪŋkrəˌnaɪzd
@@ -7312,6 +6597,7 @@ facetious,fəˈsiʃəs
 sync,sɪŋk
 inviolable,ˌɪnˈvaɪələbəl
 disease,dɪˈziz
+cross,krɔs
 holly,ˈhɑli
 nonmanufacturing,ˌnɑnˌmænjəˈfækʧərɪŋ
 gutter,ˈgətər
@@ -7322,6 +6608,7 @@ bushy,ˈbʊʃi
 asperity,əˈspɛrɪti
 harmonization,ˌhɑrmənɪˈzeɪʃən
 superstition,ˌsupərˈstɪʃən
+disable,dɪˈseɪbəl
 sketchy,ˈskɛʧi
 homicide,ˈhɑməˌsaɪd
 serena,səˈrinə
@@ -7371,6 +6658,7 @@ frustration,frəˈstreɪʃən
 manchester,ˈmænˌʧɛstər
 bop,bɑp
 aging,ˈeɪʤɪŋ
+replication,ˌrɛplɪˈkeɪʃən
 indefensible,ˌɪndɪˈfɛnsəbəl
 doorstep,ˈdɔrˌstɛp
 blimp,blɪmp
@@ -7405,6 +6693,7 @@ lulu,ˈluˌlu
 atheism,ˈeɪθiˌɪzəm
 irena,ˌɪˈreɪnə
 pickerel,ˈpɪkərəl
+camera,ˈkæmərə
 unregulated,ənˈrɛgjəˌleɪtɪd
 deviate,ˈdiviˌeɪt
 clothier,ˈkloʊðjər
@@ -7565,6 +6854,7 @@ bolar,ˈboʊlər
 bosch,bɔʃ
 fecal,ˈfikəl
 lordly,ˈlɔrˌdli
+access,ˈækˌsɛs
 generational,ˌʤɛnərˈeɪʃənəl
 polynesian,ˌpɑˌlɪˈniʒən
 ringle,ˈrɪŋgəl
@@ -7643,6 +6933,7 @@ fawning,ˈfɔnɪŋ
 sore,sɔr
 province,ˈprɑvɪns
 hibernia,ˌhaɪˈbərniə
+join,ʤɔɪn
 alan,ˈælən
 debris,dəˈbri
 menstrual,ˈmɛnstrəl
@@ -7880,6 +7171,7 @@ negativism,ˈnɛgətɪˌvɪzəm
 stuttering,ˈstətərɪŋ
 ancillary,ˈænsəˌlɛri
 corollary,ˈkɔrəˌlɛri
+private,ˈpraɪvət
 augur,ˈɔgər
 souter,ˈsutər
 reintroduction,ˌriɪntrəˈdəkʃən
@@ -7938,6 +7230,7 @@ silvia,ˈsɪlviə
 ranchero,rɑnˈʧɛroʊ
 swoosh,swuʃ
 jojoba,hoʊˈhoʊbə
+variable,ˈvɛriəbəl
 rekindle,riˈkɪndəl
 liquor,ˈlɪkər
 bung,bəŋ
@@ -8050,6 +7343,7 @@ linear,ˈlɪniər
 sans,sænz
 clarion,ˈklɛriən
 harp,hɑrp
+await,əˈweɪt
 diode,daɪoʊd
 emphatic,ɛmˈfætɪk
 bedchamber,ˈbɛˌdʧeɪmbər
@@ -8088,6 +7382,7 @@ hardly,ˈhɑrdli
 arian,ˈæriən
 taster,ˈteɪstər
 proudly,ˈpraʊdli
+storage,ˈstɔrɪʤ
 neanderthal,niˈændərˌθɔl
 paperback,ˈpeɪpərˌbæk
 unglued,ənˈglud
@@ -8183,6 +7478,7 @@ agglomerate,əˈglɑmərˌeɪt
 stagecraft,ˈsteɪʤˌkræft
 grub,grəb
 stroot,strut
+virtual,ˈvərʧuəl
 nonpoisonous,nɑnˈpɔɪzənəs
 wrecker,ˈrɛkər
 gross,groʊs
@@ -8225,6 +7521,7 @@ superpower,ˌsupərˈpaʊər
 repackage,ˌriˈpækɪʤ
 inferiority,ˌɪnfɪriˈɔrɪˌti
 are,ər
+infrastructure,ˌɪnfrəˈstrəkʧər
 woodsman,ˈwʊdzmæn
 plowing,plaʊɪŋ
 suppressed,səˈprɛst
@@ -8264,6 +7561,7 @@ wacky,ˈwæki
 quarter,kˈwɔrtər
 founding,ˈfaʊndɪŋ
 shutout,ˈʃəˌtaʊt
+markup,ˈmɑrˌkəp
 unwell,ənˈwɛl
 axel,ˈæksəl
 poison,ˈpɔɪzən
@@ -8298,6 +7596,7 @@ tacker,ˈtækər
 theophila,θeɪəˈfilə
 venter,ˈvɛntər
 fondle,ˈfɔndəl
+framework,ˈfreɪmˌwərk
 proclivity,proʊˈklɪvəti
 tula,ˈtulə
 pungent,ˈpənʤənt
@@ -8310,6 +7609,7 @@ satisfied,ˈsætɪsˌfaɪd
 stillness,ˈstɪlnəs
 satisfaction,ˌsætɪsˈfækʃən
 juang,ʤwɑŋ
+current,ˈkɑrənt
 madelon,mɑdeɪˈlɔn
 unjustifiable,ˌənˌʤəstɪˈfaɪəbəl
 surrender,sərˈɛndər
@@ -8371,6 +7671,7 @@ sardine,sɑrˈdin
 slid,slɪd
 shunting,ˈʃəntɪŋ
 father,ˈfɑðər
+authorization,ˌɔθərəˈzeɪʃən
 nebulous,ˈnɛbjələs
 litigation,ˌlɪtəˈgeɪʃən
 mormonism,ˈmɔrmənɪzəm
@@ -8389,11 +7690,13 @@ anabolic,ˌænəˈbɑlɪk
 calk,kɔk
 resignee,ˌrɛzɪgˈni
 parenthood,ˈpɛrənˌthʊd
+null,nəl
 drago,ˈdrɑgoʊ
 anthropologist,ˌænθrəˈpɑləʤɪst
 embattle,ɛmˈbætəl
 miami,maɪˈæmi
 icily,ˈaɪsɪli
+auto,ˈɔtoʊ
 youse,juz
 was,wɑz
 damning,ˈdæmɪŋ
@@ -8636,6 +7939,7 @@ omani,oʊˈmɑni
 mobster,ˈmɑbstər
 perquisite,ˈpərkwəzɪt
 economically,ˌɛkəˈnɑmɪkli
+box,bɑks
 classman,ˈklæsmən
 poach,poʊʧ
 modal,ˈmoʊdəl
@@ -8649,6 +7953,7 @@ variegated,ˈvɛrɪgeɪtəd
 whistler,ˈwɪslər
 peevish,ˈpivɪʃ
 shopping,ˈʃɑpɪŋ
+indexing,ˈɪndɛksɪŋ
 sabella,səˈbɛlə
 robustness,roʊˈbəstnəs
 headwater,ˈhɛdˌwɔtər
@@ -8692,6 +7997,7 @@ interscholastic,ˌɪntərskəˈlæstɪk
 justine,ʤəˈstin
 craving,ˈkreɪvɪŋ
 alsatian,ælˈseɪʃən
+iteration,ˌɪtəˈreɪʃən
 postmark,ˈpoʊstˌmɑrk
 evelyn,ˈɛvəlɪn
 leads,lidz
@@ -8701,6 +8007,7 @@ enforced,ɛnˈfɔrst
 dinghy,ˈdɪŋi
 album,ˈælbəm
 horticulturist,ˌhɔrtɪˈkəlʧərɪst
+router,ˈrutər
 ville,vɪl
 dresser,ˈdrɛsər
 sheathed,ʃiðd
@@ -8725,7 +8032,9 @@ drawdown,ˈdrɔˌdaʊn
 fibrous,ˈfaɪbrəs
 lino,ˈlinoʊ
 scandalous,ˈskændələs
+case,keɪs
 departure,dɪˈpɑrʧər
+not,nɑt
 undisputed,ˌəndɪˈspjutɪd
 bullhorn,ˈbʊˌlhɔrn
 badness,ˈbædnəs
@@ -8754,6 +8063,7 @@ february,ˈfɛbruˌɛri
 alternating,ˈɔltərˌneɪtɪŋ
 centennial,sɛnˈtɛniəl
 sympathy,ˈsɪmpəθi
+expression,ɪkˈsprɛʃən
 preacher,ˈpriʧər
 dawson,ˈdɔsən
 calculus,ˈkælkjələs
@@ -8772,6 +8082,7 @@ beholden,bɪˈhoʊldən
 continuously,kənˈtɪnjuəsli
 face,feɪs
 disturbingly,dɪˈstərbɪŋli
+erase,ɪˈreɪs
 boast,boʊst
 saum,sɔm
 thumping,ˈθəmpɪŋ
@@ -8801,6 +8112,7 @@ coking,ˈkoʊkɪŋ
 celestial,səˈlɛsʧəl
 underpass,ˈəndərˌpæs
 conic,ˈkɑnɪk
+angular,ˈæŋgjələr
 unto,ˈəntu
 goldin,ˈgoʊldɪn
 hepatitis,ˌhɛpəˈtaɪtəs
@@ -8916,6 +8228,7 @@ listerine,ˈlɪstərˌin
 missile,ˈmɪsəl
 verifiable,ˈvɛrəˌfaɪəbəl
 penman,ˈpɛnmən
+generator,ˈʤɛnərˌeɪtər
 bullfighting,ˈbʊlˌfaɪtɪŋ
 antipodal,ænˈtɪpədəl
 godfather,ˈgɑdˌfɑðər
@@ -8950,6 +8263,7 @@ me,mi
 towering,ˈtaʊrɪŋ
 hurtful,ˈhərtfəl
 unapproachable,ˌənəˈproʊʧəbəl
+requirement,rɪkˈwaɪrmənt
 meece,mis
 footwear,ˈfʊtˌwɛr
 conditioned,kənˈdɪʃənd
@@ -8988,6 +8302,7 @@ career,kərɪr
 ducker,ˈdəkər
 banked,bæŋkt
 pliers,plaɪərz
+aggregate,ˈægrəgət
 turkish,ˈtərkɪʃ
 ferromagnetism,ˌfɛroʊˈmægnəˌtɪzəm
 borscht,bɔrʃt
@@ -9031,6 +8346,7 @@ billable,ˈbɪləbəl
 warlike,ˈwɔˌrlaɪk
 grouchy,ˈgraʊʧi
 tasker,ˈtæskər
+password,ˈpæsˌwərd
 pinker,ˈpɪŋkər
 cuesta,kˈwɛstə
 hurling,ˈhərlɪŋ
@@ -9177,6 +8493,8 @@ numbness,ˈnəmnəs
 drunkard,ˈdrəŋkərd
 luxurious,ləgˈʒəriəs
 unfortunately,ənˈfɔrʧənətli
+begin,bɪˈgɪn
+normalization,ˌnɔrməlɪˈzeɪʃən
 junker,ˈʤəŋkər
 equatorial,ˌikwəˈtɔriəl
 shingler,ˈʃɪŋlər
@@ -9344,6 +8662,7 @@ celsius,ˈsɛlsiəs
 fascinated,ˈfæsəˌneɪtɪd
 severe,səˈvɪr
 virgin,ˈvərʤɪn
+cypress,ˈsaɪprɪs
 starchy,ˈstɑrʧi
 euclea,ˈjukliə
 hypodermic,ˌhaɪpəˈdərmɪk
@@ -9402,6 +8721,7 @@ oriental,ˌɔriˈɛnəl
 lewd,lud
 recalculate,riˈkælkjəˌleɪt
 cathy,ˈkæθi
+directory,dɪˈrɛktəri
 perplexity,pərˈplɛksəti
 aircrew,ˈɛrˌkru
 produce,ˈproʊdus
@@ -9510,6 +8830,7 @@ inconstancy,ˌɪnˈkɑnstənsi
 ingram,ˈɪŋgrəm
 procrastinate,prəˈkræstəˌneɪt
 amok,əˈmək
+service,ˈsərvɪs
 catalytic,ˌkætəˈlɪtɪk
 effluent,ˈɛfluənt
 bailiwick,ˈbeɪlɪˌwɪk
@@ -9521,6 +8842,7 @@ pimple,ˈpɪmpəl
 borderline,ˈbɔrdərˌlaɪn
 courser,ˈkɔrsər
 hegemony,hiˈʤɛməni
+clock,klɑk
 misogynist,ˈmɪzəʤɪnɪst
 pisces,ˈpaɪsiz
 redraft,riˈdræft
@@ -9560,6 +8882,7 @@ orchid,ˈɔrkəd
 whiner,ˈwaɪnər
 overspend,ˈoʊvərˌspɛnd
 analytical,ˌænəˈlɪtɪkəl
+discoverable,dɪˈskəvərəbəl
 prescience,ˈpriʃiəns
 overestimate,ˌoʊvərˈɛstəˌmeɪt
 caster,ˈkæstər
@@ -9641,6 +8964,7 @@ discursive,dɪˈskərsɪv
 blaze,bleɪz
 incorporate,ˌɪnˈkɔrpərˌeɪt
 abrogate,ˈæbrəˌgeɪt
+to,tɪ
 phosphate,ˈfɑsfeɪt
 valedictory,ˌvæləˈdɪktəri
 presumptuous,prɪˈzəmpʧəwəs
@@ -10047,6 +9371,7 @@ principle,ˈprɪnsəpəl
 antiviral,ˌæntiˈvaɪrəl
 staid,steɪd
 archivist,ˈɑrkəvɪst
+daemon,ˈdimən
 emcee,ˈɛmˈsi
 luncheonette,ˌlənʧɪˈnɛt
 jacket,ˈʤækɪt
@@ -10265,6 +9590,7 @@ flurried,ˈflərid
 nasty,ˈnæsti
 prophetic,prəˈfɛtɪk
 pedicure,ˈpɛdɪkjər
+bios,baɪoʊs
 chaus,ʧaʊs
 hipbone,ˈhɪpˈboʊn
 kitchenette,ˌkɪʧəˈnɛt
@@ -10290,6 +9616,7 @@ frison,ˈfrɪsən
 belgrade,ˈbɛlˌgrɑd
 asymptomatic,ˌeɪˌsɪmptəˈmætɪk
 taunting,ˈtɔntɪŋ
+prompt,prɑmpt
 souther,ˈsəðər
 orca,ˈɔrkə
 blowgun,ˈbloʊˌgən
@@ -10413,6 +9740,7 @@ lambda,ˈlæmdə
 gastritis,gæˈstraɪtəs
 mouser,ˈmaʊzər
 synthesize,ˈsɪnθəˌsaɪz
+rollback,ˈroʊlˌbæk
 morning,ˈmɔrnɪŋ
 autopsy,ˈɔˌtɑpsi
 winded,ˈwɪndɪd
@@ -10570,6 +9898,7 @@ effervescent,ˌɛfərˈvɛsənt
 panda,ˈpændə
 salva,ˈsɑlvə
 fisc,fɪsk
+logging,ˈlɔgɪŋ
 bombast,ˈbɑmbæst
 privileged,ˈprɪvɪlɪʤd
 ludo,ˈluˌdoʊ
@@ -10615,6 +9944,7 @@ beached,biʧt
 striker,ˈstraɪkər
 sniffily,sˈnɪfəli
 affected,əˈfɛktɪd
+cascade,kæˈskeɪd
 supposition,ˌsəpəˈzɪʃən
 frightfully,ˈfraɪtfəli
 shift,ʃɪft
@@ -10628,6 +9958,7 @@ squeaky,skˈwiki
 below,bɪˈloʊ
 shake,ʃeɪk
 jurassic,ʤʊˈræsɪk
+bridge,brɪʤ
 cautionary,ˈkɔʃəˌnɛri
 portuguese,ˈpɔrʧəˌgiz
 hider,ˈhaɪdər

@@ -4,7 +4,7 @@ import json
 import os
 
 #  Rutas por defecto
-DEFAULT_DATASET  = "dataset.csv"
+DEFAULT_DATASET  = "../data_script/dataset_final.csv"
 DEFAULT_MODEL    = "g2p_model.pt"
 DEFAULT_VOCAB    = "g2p_vocab.json"
 
