@@ -1,6 +1,7 @@
-fastapi==0.110.0
-uvicorn==0.27.1
-torch==2.2.1
-python-dotenv==1.0.1
-pydantic==2.6.3
-numpy==2.2.6
+fastapi==0.135.3
+uvicorn==0.44.0
+torch==2.11.0
+python-dotenv==1.2.2
+pydantic==2.13.1
+numpy==2.4.4
+pandas==3.0.1
